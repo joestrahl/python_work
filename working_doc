@@ -1,0 +1,6 @@
+nums = list(range(0,5))
+
+num = range(0,5)
+
+print(nums)
+print(num)

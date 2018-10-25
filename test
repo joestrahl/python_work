@@ -1,0 +1,5 @@
+alien = {}
+
+alien['color'] = 'green'
+
+print(alien['color']
